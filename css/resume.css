@@ -174,3 +174,7 @@ a {
 a:hover, a:focus, a:active {
   color: #BF585E;
 }
+
+.researchimg {
+    max-width: 400px;
+}
